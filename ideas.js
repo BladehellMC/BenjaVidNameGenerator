@@ -21,7 +21,7 @@ var prefixes = [
   "world's",
   "most insane",
   "escape",
-  "go",
+  "hilarious",
   "cheesiest",
   "craziest",
   "egg",
