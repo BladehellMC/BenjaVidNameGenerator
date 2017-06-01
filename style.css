@@ -1,0 +1,24 @@
+body {
+  background-image: url("bg.png");
+  background-repeat: repeat;
+}
+h1 {
+  color: white;
+  font-size: 48px;
+}
+p {
+  color: white;
+}
+.text-muted {
+  color: lightgray;
+}
+a {
+  color: white;
+  font-weight: bold;
+}
+a:hover{
+  color: yellow;
+}
+.shadow {
+  text-shadow: 10px 10px 4px #000;
+}
