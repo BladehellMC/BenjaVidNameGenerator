@@ -7,7 +7,11 @@ var subtext = [
   "Have fun.",
   "That doesn't sound healthy.",
   "The things you do for your views.",
-  "tbh, I'd click that"
+  "tbh, I'd click that",
+  "Hahahaha",
+  "That's a Devon joke.",
+  "That might break the YouTube TOS.",
+  "Don't forget the red arrow clickbait."
 ];
 
 var prefixes = [
@@ -41,7 +45,7 @@ var nouns = [
   "kyle",
   "mitch",
   "coke",
-  "metos",
+  "mentos",
   "slime",
   "goo",
   "coke and mentos",
@@ -57,6 +61,8 @@ var nouns = [
   "french fry",
   "golf",
   "indoor golf"
+  "fidget spinner",
+  "mold"
 ];
 
 var suffixes = [
