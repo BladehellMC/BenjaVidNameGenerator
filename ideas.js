@@ -60,7 +60,7 @@ var nouns = [
   "waxes my arms",
   "french fry",
   "golf",
-  "indoor golf"
+  "indoor golf",
   "fidget spinner",
   "mold"
 ];
