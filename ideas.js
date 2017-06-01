@@ -35,7 +35,11 @@ var prefixes = [
   "my mom's",
   "my dad's",
   "my brother's",
-  "my sister's"
+  "my sister's",
+  "gross",
+  "bf vs gf",
+  "funny",
+  "fake"
 ];
 
 var nouns = [
@@ -62,7 +66,13 @@ var nouns = [
   "golf",
   "indoor golf",
   "fidget spinner",
-  "mold"
+  "mold",
+  "soccer",
+  "ping pong",
+  "basketball",
+  "hot pepper",
+  "cookie",
+  "cake"
 ];
 
 var suffixes = [
@@ -79,6 +89,14 @@ var suffixes = [
   "ON YOUTUBE",
   "IN THE WORLD",
   "ON THE INTERNET",
-  "(DANGEROUS!!!)",
-  "PRANK"
+  "(DANGEROUS)",
+  "PRANK",
+  "CHALLENGE",
+  "PENALTY CHALLENGE"
+];
+
+var punctuation = [
+  "!",
+  "!!!",
+  "!!!!!"
 ];

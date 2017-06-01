@@ -61,6 +61,7 @@
 
       function newIdea() {
         var idea = generate(prefixes, nouns, suffixes);
+        idea += getRandomElement(punctuation);
 
         var url = tweetURLBase + encodeURIComponent("My #Benja Vid Idea: " + idea + "! @Turqmelon @Bajan_Canadian");
         $("#tweetbtn").attr("href", url);
