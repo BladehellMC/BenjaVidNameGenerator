@@ -94,9 +94,3 @@ var suffixes = [
   "CHALLENGE",
   "PENALTY CHALLENGE"
 ];
-
-var punctuation = [
-  "!",
-  "!!!",
-  "!!!!!"
-];
