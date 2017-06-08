@@ -11,7 +11,12 @@ var subtext = [
   "Hahahaha",
   "That's a Devon joke.",
   "That might break the YouTube TOS.",
-  "Don't forget the red arrow clickbait."
+  "Don't forget the red arrow clickbait.",
+  "You have my blessing.",
+  "That's an awful idea.",
+  "Stop.",
+  "Haven't you suffered enough?",
+  "It was nice knowing you."
 ];
 
 var prefixes = [
@@ -39,7 +44,15 @@ var prefixes = [
   "gross",
   "bf vs gf",
   "funny",
-  "fake"
+  "fake",
+  "crazy",
+  "you spin it, you do it",
+  "hot sauce",
+  "how to make",
+  "glow in the dark",
+  "world's largest",
+  "2 people inside",
+  "eating"
 ];
 
 var nouns = [
@@ -72,7 +85,14 @@ var nouns = [
   "basketball",
   "hot pepper",
   "cookie",
-  "cake"
+  "cake",
+  "vinegar and baking soda",
+  "alien slime",
+  "nerf gun",
+  "water gun",
+  "arm waxing",
+  "leg waxing",
+  "haircut"
 ];
 
 var suffixes = [
@@ -83,6 +103,7 @@ var suffixes = [
   "IN MY CAR",
   "IN MY OFFICE",
   "IN MY BEDROOM",
+  "IN MY MOUTH",
   "(BLOOD WARNING)",
   "(VOMIT WARNING)",
   "EVER",
@@ -92,5 +113,9 @@ var suffixes = [
   "(DANGEROUS)",
   "PRANK",
   "CHALLENGE",
-  "PENALTY CHALLENGE"
+  "PENALTY CHALLENGE",
+  "*EXTREMELY DANGEROUS*",
+  "(GONE SEXUAL)",
+  "(DO NOT TRY)",
+  "EXPERIMENT"
 ];
